@@ -1,7 +1,10 @@
 ## Hey whats up, I'm Vitor Brito
 
 
-- I'm currently studying Information Technology at ULBRA São Lucas and I'm 17 years old. I'm looking for an internship opportunity. I’m motivated to learn, improve my programming skills, and gain real-world experience in the area. I'm committed, responsible, and eager to contribute while developing my professional skills.
+- IT student at ULBRA São Lucas, 17 years old.
+Seeking an internship opportunity in Information Technology.
+Motivated to learn, improve programming skills, and gain real-world experience.
+Committed, responsible, and eager to grow professionally.
 
 -  How to reach me: 
  Email: vitorbritodebastos@gmail.com 
