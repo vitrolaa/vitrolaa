@@ -1,9 +1,7 @@
 ## Hey whats up, I'm Vitor Brito
 
 
-- I'm currently studying T.I on ULBRA São Lucas. I'm on thirt of high school I'm 17 years old. I’m looking to collaborate on support because i have to do my internship
- I’m looking for help with lern more about programation
- Ask me about somethings do you want to know about me 
+- I'm currently studying Information Technology at ULBRA São Lucas and I'm 17 years old. I'm looking for an internship opportunity. I’m motivated to learn, improve my programming skills, and gain real-world experience in the area. I'm committed, responsible, and eager to contribute while developing my professional skills.
 
 -  How to reach me: 
  Email: vitorbritodebastos@gmail.com 
