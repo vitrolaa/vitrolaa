@@ -45,13 +45,6 @@ Check out my repositories to explore my projects and see what I'm building.
 
 ## GitHub Activity
 
-<div align="center">
-
-[![Vitor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitrolaaE&theme=tokyo-night)](https://github.com/SEU_USERNAME)
-
-</div>
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=vitrolaa&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
