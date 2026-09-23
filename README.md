@@ -43,11 +43,13 @@ I enjoy transforming ideas into functional applications, from personal finance s
 Check out my repositories to explore my projects and see what I'm building.
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitrolaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitrolaa&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+## GitHub Activity
 
+<div align="center">
+
+[![Vitor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitrolaaE&theme=tokyo-night)](https://github.com/SEU_USERNAME)
+
+</div>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vitrolaa&theme=tokyonight)](https://git.io/streak-stats)
